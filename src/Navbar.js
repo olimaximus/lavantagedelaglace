@@ -3,16 +3,16 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
         <nav className="navbar">
-            <Link className="logo" to="/">
+            <Link className="logo" to="/lavantagedelaglace/">
                 <h1>L'avantage de la glace</h1>
             </Link>
             <div className="links">
-                <Link to="/patinage">Patinage</Link>
-                <Link to="/lancers">Lancers</Link>
-                <Link to="/maniement">Maniement</Link>
-                <Link to="/strategies">Stratégies</Link>
-                <Link to="/horsglace">Hors-Glace</Link>
-                <Link className="button" to="/reserver">Réserver</Link>
+                <Link to="/lavantagedelaglace/patinage">Patinage</Link>
+                <Link to="/lavantagedelaglace/lancers">Lancers</Link>
+                <Link to="/lavantagedelaglace/maniement">Maniement</Link>
+                <Link to="/lavantagedelaglace/strategies">Stratégies</Link>
+                <Link to="/lavantagedelaglace/horsglace">Hors-Glace</Link>
+                <Link className="button" to="/lavantagedelaglace/reserver">Réserver</Link>
             </div>
         </nav>
     );

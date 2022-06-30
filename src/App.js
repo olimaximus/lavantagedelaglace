@@ -16,31 +16,28 @@ function App() {
         <Navbar />
         <div className="content">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/lavantagedelaglace/">
               <Home />
             </Route>
-            <Route path="/lavantagedelaglace">
-              <Home />
-            </Route>
-            <Route path="/patinage">
+            <Route path="/lavantagedelaglace/patinage">
               <Patinage />
             </Route>
-            <Route path="/lancers">
+            <Route path="/lavantagedelaglace/lancers">
               <Lancers />
             </Route>
-            <Route path="/maniement">
+            <Route path="/lavantagedelaglace/maniement">
               <Maniement />
             </Route>
-            <Route path="/strategies">
+            <Route path="/lavantagedelaglace/strategies">
               <Strategies />
             </Route>
-            <Route path="/horsglace">
+            <Route path="/lavantagedelaglace/horsglace">
               <HorsGlace />
             </Route>
-            <Route path="/reserver">
+            <Route path="/lavantagedelaglace/reserver">
               <Reservation />
             </Route>
-            <Route path="/video/:id">
+            <Route path="/lavantagedelaglace/video/:id">
               <VideoPlayer />
             </Route>
           </Switch>

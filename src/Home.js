@@ -9,19 +9,19 @@ const Home = () => {
                 <h3>Découvrez nos vidéos sur les sujets suivants:</h3>
                 <div className="links">
                     <div className="row">
-                        <Link to="/patinage">Patinage</Link>
-                        <Link to="/lancers">Lancers</Link>
+                        <Link to="/lavantagedelaglace/patinage">Patinage</Link>
+                        <Link to="/lavantagedelaglace/lancers">Lancers</Link>
                     </div>
                     <div className="row">
-                        <Link to="/maniement">Maniement</Link>
-                        <Link to="/strategies">Stratégies</Link>
+                        <Link to="/lavantagedelaglace/maniement">Maniement</Link>
+                        <Link to="/lavantagedelaglace/strategies">Stratégies</Link>
                     </div>
                     <div className="row">
-                    <Link to="/horsglace">Hors-Glace</Link>
+                    <Link to="/lavantagedelaglace/horsglace">Hors-Glace</Link>
                     </div>
                 </div>
                 <h3 className="second-sub">Prenez rendez-vous avec nos entraîneurs:</h3>
-                <Link to="/reserver" className='reserver'>Réserver</Link>
+                <Link to="/lavantagedelaglace/reserver" className='reserver'>Réserver</Link>
             </div>
         </div>
     );

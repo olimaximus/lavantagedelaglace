@@ -32,29 +32,29 @@ const HorsGlace = () => {
 
                 <div className="videos">
                     <div className='row'>
-                        <Link to={"/video/" + videos[24].id} className="single-video-display">
+                        <Link to={"/lavantagedelaglace/video/" + videos[24].id} className="single-video-display">
                             <img src={videos[24]['thumbnail-url']} alt={videos[24].title} />
                             <h4>{videos[24].title}</h4>
                         </Link>
-                        <Link to={"/video/" + videos[25].id} className="single-video-display">
+                        <Link to={"/lavantagedelaglace/video/" + videos[25].id} className="single-video-display">
                             <img src={videos[25]['thumbnail-url']} alt={videos[25].title} />
                             <h4>{videos[25].title}</h4>
                         </Link>
-                        <Link to={"/video/" + videos[26].id} className="single-video-display">
+                        <Link to={"/lavantagedelaglace/video/" + videos[26].id} className="single-video-display">
                             <img src={videos[26]['thumbnail-url']} alt={videos[26].title} />
                             <h4>{videos[26].title}</h4>
                         </Link>
                     </div>
                     <div className='row'>
-                    <Link to={"/video/" + videos[27].id} className="single-video-display">
+                    <Link to={"/lavantagedelaglace/video/" + videos[27].id} className="single-video-display">
                             <img src={videos[27]['thumbnail-url']} alt={videos[27].title} />
                             <h4>{videos[27].title}</h4>
                         </Link>
-                        <Link to={"/video/" + videos[28].id} className="single-video-display">
+                        <Link to={"/lavantagedelaglace/video/" + videos[28].id} className="single-video-display">
                             <img src={videos[28]['thumbnail-url']} alt={videos[28].title} />
                             <h4>{videos[28].title}</h4>
                         </Link>
-                        <Link to={"/video/" + videos[29].id} className="single-video-display">
+                        <Link to={"/lavantagedelaglace/video/" + videos[29].id} className="single-video-display">
                             <img src={videos[29]['thumbnail-url']} alt={videos[29].title} />
                             <h4>{videos[29].title}</h4>
                         </Link>
