@@ -121,6 +121,7 @@ form {
 .filtre input {
   display: table-cell;
   vertical-align: middle;
+  pointer-events: all;
 }
 
 input {
@@ -129,6 +130,7 @@ input {
   color: white;
   font-size: 0.95rem;
   border-radius: 4px;
+  pointer-events: none;
 }
 
 .single-video-display img {
