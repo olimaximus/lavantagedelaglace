@@ -1,0 +1,212 @@
+[
+        {
+            "title": "Améliorer son patinage avant",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=C6SEwTyJtpE",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/C6SEwTyJtpE/maxresdefault.jpg",
+            "id": 1
+        },
+        {
+            "title": "Patiner sans patins",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=dXqep-ixfDE",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/dXqep-ixfDE/maxresdefault.jpg",
+            "id": 2
+        },
+        {
+            "title": "Travailler la posture",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=VT5OZe07N9U",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/VT5OZe07N9U/maxresdefault.jpg",
+            "id": 3
+        },
+        {
+            "title": "L'importance de rester bas",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=rUqCrc4tUhM",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/rUqCrc4tUhM/maxresdefault.jpg",
+            "id": 4
+        },
+        {
+            "title": "Les carrés de lame (edges)",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=q8-aoYR-bYo",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/q8-aoYR-bYo/maxresdefault.jpg",
+            "id": 5
+        },
+        {
+            "title": "Agilité et équilibre",
+            "category": "patinage",
+            "vid-url" : "https://www.youtube.com/watch?v=vuaIJq5YKKA",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/vuaIJq5YKKA/maxresdefault.jpg",
+            "id": 6
+        },
+        {
+            "title": "Utilisation des poignets",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=9lx7LW1gUeE",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/9lx7LW1gUeE/maxresdefault.jpg",
+            "id": 7
+        },
+        {
+            "title": "Lancer plus rapidement",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=C5ENki8zIJM",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/C5ENki8zIJM/maxresdefault.jpg",
+            "id": 8
+        },
+        {
+            "title": "Déplacer la rondelle",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=Upx8ONEBEpk",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/Upx8ONEBEpk/maxresdefault.jpg",
+            "id": 9
+        },
+        {
+            "title": "Transfert du poids",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=jkuvetw2V8I",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/jkuvetw2V8I/maxresdefault.jpg",
+            "id": 10
+        },
+        {
+            "title": "Flexion du bâton",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=RjlOu9XviI8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/RjlOu9XviI8/maxresdefault.jpg",
+            "id": 11
+        },
+        {
+            "title": "3 trucs pour un meilleur tir du poignet",
+            "category": "lancers",
+            "vid-url" : "https://www.youtube.com/watch?v=-mYr8T5-uR8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/-mYr8T5-uR8/maxresdefault.jpg",
+            "id": 12
+        },
+        {
+            "title": "Contrôle de la rondelle",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=PhB9-fSqpYo",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/PhB9-fSqpYo/maxresdefault.jpg",
+            "id": 13
+        },
+        {
+            "title": "Rapidité des mains",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=Z38QfMBqHss",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/Z38QfMBqHss/maxresdefault.jpg",
+            "id": 14
+        },
+        {
+            "title": "Mouvement des pieds et des mains",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=r3Bpbg73VS8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/r3Bpbg73VS8/mqdefault.jpg",
+            "id": 15
+        },
+        {
+            "title": "Techniques de passes",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=-BiwKgDptNs",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/-BiwKgDptNs/maxresdefault.jpg",
+            "id": 16
+        },
+        {
+            "title": "Passes soulevées",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=4PwcrFOnJ_s",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/4PwcrFOnJ_s/maxresdefault.jpg",
+            "id": 17
+        },
+        {
+            "title": "Améliorer ses passes",
+            "category": "maniement",
+            "vid-url" : "https://www.youtube.com/watch?v=tQSaHGT2yY4",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/tQSaHGT2yY4/maxresdefault.jpg",
+            "id": 18
+        },
+        {
+            "title": "Positionnement défensif de base",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=HjoNdGHhHh0",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/HjoNdGHhHh0/mqdefault.jpg",
+            "id": 19
+        },
+        {
+            "title": "Positionnement en zone neutre et offensive",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=lgSRD24hOU8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/lgSRD24hOU8/mqdefault.jpg",
+            "id": 20
+        },
+        {
+            "title": "Triangle d'attaque",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=sHK64M6hpk8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/sHK64M6hpk8/maxresdefault.jpg",
+            "id": 21
+        },
+        {
+            "title": "Échec-avant",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=cOR--Fi5KoU",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/cOR--Fi5KoU/maxresdefault.jpg",
+            "id": 22
+        },
+        {
+            "title": "Avantage numérique: Surcharge",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=dHM5dYNOh8o",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/dHM5dYNOh8o/mqdefault.jpg",
+            "id": 23
+        },
+        {
+            "title": "Désavantage numérique: La boîte",
+            "category": "strategies",
+            "vid-url" : "https://www.youtube.com/watch?v=XeNryUEVlI8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/XeNryUEVlI8/mqdefault.jpg",
+            "id": 24
+        },
+        {
+            "title": "Améliorer sa vitesse",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=1QGH5pnue44",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/1QGH5pnue44/maxresdefault.jpg",
+            "id": 25
+        },
+        {
+            "title": "Améliorer sa force musculaire",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=BRydoHmmpP8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/BRydoHmmpP8/mqdefault.jpg",
+            "id": 26
+        },
+        {
+            "title": "Améliorer son explosivité",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=NptSA1wjlq8",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/NptSA1wjlq8/maxresdefault.jpg",
+            "id": 27
+        },
+        {
+            "title": "Améliorer son endurance",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=hgw2_G8EAtg",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/hgw2_G8EAtg/maxresdefault.jpg",
+            "id": 28
+        },
+        {
+            "title": "Conditionnement aérobique",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=yYbbAYDpivE",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/yYbbAYDpivE/maxresdefault.jpg",
+            "id": 29
+        },
+        {
+            "title": "Améliorer son agilité",
+            "category": "horsglace",
+            "vid-url" : "https://www.youtube.com/watch?v=I7gQjvrnl1w",
+            "thumbnail-url" : "https://i3.ytimg.com/vi/I7gQjvrnl1w/maxresdefault.jpg",
+            "id": 30
+        }
+]
