@@ -8,7 +8,7 @@ const Lancers = () => {
                 <h1>Lancers</h1>
                 <h3>Filtres (en développement...)</h3>
                 <div className="filtres">
-                    <form action="/lancers">
+                    <form action="/lavantagedelaglace/lancers">
                         <div className="filtre">
                             <label for="poignet">Lancer du poignet</label>
                             <input type="checkbox" id="poignet" name="poignet" value="poignet"></input>

@@ -8,7 +8,7 @@ const Strategies = () => {
                 <h1>Stratégies</h1>
                 <h3>Filtres (en développement...)</h3>
                 <div className="filtres">
-                    <form action="/strategies">
+                    <form action="/lavantagedelaglace/strategies">
                         <div className="filtre">
                             <label for="offensive">Stratégies offensives</label>
                             <input type="checkbox" id="offensive" name="offensive" value="offensive"></input>

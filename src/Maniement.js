@@ -8,7 +8,7 @@ const Maniement = () => {
                 <h1>Maniement</h1>
                 <h3>Filtres (en développement...)</h3>
                 <div className="filtres">
-                    <form action="/maniement">
+                    <form action="/lavantagedelaglace/maniement">
                         <div className="filtre">
                             <label for="feinte">Feinte</label>
                             <input type="checkbox" id="feinte" name="feinte" value="feinte"></input>

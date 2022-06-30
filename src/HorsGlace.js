@@ -8,7 +8,7 @@ const HorsGlace = () => {
                 <h1>Hors-glace</h1>
                 <h3>Filtres (en développement...)</h3>
                 <div className="filtres">
-                    <form action="/horsglace">
+                    <form action="/lavantagedelaglace/horsglace">
                         <div className="filtre">
                             <label for="hg-puissance">Puissance</label>
                             <input type="checkbox" id="hg-puissance" name="hg-puissance" value="hg-puissance"></input>

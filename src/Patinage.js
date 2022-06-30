@@ -10,7 +10,7 @@ const Patinage = () => {
                 <h1>Patinage</h1>
                 <h3>Filtres (en développement...)</h3>
                 <div className="filtres">
-                    <form action="/patinage">
+                    <form action="/lavantagedelaglace/patinage">
                         <div className="filtre">
                             <label for="avant">Patinage avant</label>
                             <input type="checkbox" id="avant" name="avant" value="avant"></input>
